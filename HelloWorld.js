@@ -1,1 +1,1 @@
-console.log('Goodbye cruel world');
+console.log('Hello again new world');
